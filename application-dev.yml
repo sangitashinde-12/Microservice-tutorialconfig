@@ -1,7 +1,6 @@
-github: 
-  spring:
-     application: 
-         name: config-dev
+spring:
+   application: 
+      name: config-dev
 eureka:
   instance:
     prefer-ip-address: true
